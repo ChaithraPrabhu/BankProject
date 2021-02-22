@@ -2,7 +2,7 @@
 Steps to execute the test scripts:
 
 Step-1: 
-Download workspace from GitHub “https://github.com/ChaithraPrabhu/LoanCalculator/”
+Download workspace from GitHub “https://github.com/ChaithraPrabhu/CucumberFW/”
 	
 Step-2:
 Install JDK and add “JAVA_HOME” variable with JDK path in environment variable and include “%JAVA_HOME%\bin” in path variable
@@ -17,4 +17,4 @@ Step-5:
 Run Runner.java class (RunnerTest Class file path src/test/java/TestRunner/Runner.java)
 	
 Step-6:
-After completion of execution report will be generated in Calculator/output folder.
+After completion of execution report will be generated in Calculator/TestResults folder.
