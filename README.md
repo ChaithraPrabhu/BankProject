@@ -2,7 +2,7 @@
 Steps to execute the test scripts:
 
 Step-1: 
-Download workspace from GitHub “https://github.com/ChaithraPrabhu/CucumberFW/”
+Download workspace from GitHub “https://github.com/ChaithraPrabhu/BankProject/”
 	
 Step-2:
 Install JDK and add “JAVA_HOME” variable with JDK path in environment variable and include “%JAVA_HOME%\bin” in path variable
