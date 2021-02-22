@@ -1,0 +1,59 @@
+{
+	"calculatePageHeader": {
+		"CLASSNAME": "text--white"
+	},
+	"applicationTypeSingle": {
+		"XPATH": "//label[@for='application_type_single']"
+	},
+	"applicationTypeJoint": {
+		"XPATH": "//label[@for='application_type_joint']"
+	},
+	"noOfDependantsDropDown": {
+		"XPATH": "//*[@title='Number of dependants']"
+	},
+   	"homeToLiveIn": {
+		"XPATH": "//*[@for='borrow_type_home']"
+	},
+	"residentialInvestment": {
+		"XPATH": "//*[@for='borrow_type_investment']"
+	},
+	"incomeField": {
+		"XPATH": "//*[@aria-labelledby='q2q1']"
+	},   
+   	"jointApplicantIncomeField": {
+		"XPATH": "//*[@aria-labelledby='q2q3']"
+	},
+	"otherIncomeField": {
+		"XPATH": "//*[@aria-labelledby='q2q2']"
+	}, 
+   	"jointApplicantOtherIncomeField": {
+		"XPATH": "//*[@aria-labelledby='q2q4']"
+	},
+	"livingExpenseField": {
+		"id": "expenses"
+	}, 
+	"homeLoanRepaymentField": {
+		"id": "homeloans"
+	}, 
+	"otherLoanRepaymentField": {
+		"id": "otherloans"
+	}, 
+   	"otherCommitmentsField": {
+		"XPATH": "//*[@aria-labelledby='q3q4']"
+	},
+	"creditCardLimitsField": {
+		"id": "credit"
+	},
+   	"borrowButton": {
+		"XPATH": "//*[contains(@class, 'btn--borrow__calculate')]"
+	},
+	"borrowAmount": {
+		"CLASSNAME": "borrow__result__text__amount"
+	},
+   	"startOverButton": {
+		"XPATH": "(//button[@aria-label='Start over'])[2]"
+	},
+	"borrowErrorMessage": {
+		"CLASSNAME": "borrow__error__text"
+	},
+}
